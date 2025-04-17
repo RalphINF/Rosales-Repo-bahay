@@ -3,9 +3,9 @@ public class Schooltest {
     
         public static void main(String[] args) {
             
-            Student student = new Student("Alice", 1, "10th Grade");
-            Teacher teacher = new Teacher("Mr. Smith", 2, "Mathematics");
-            Staff staff = new Staff("Mrs. Johnson", 3, "Administration");
+            Student student = new Student("Ralph", 1, "1st Year College");
+            Teacher teacher = new Teacher("Sir Jayson", 2, "Inter Prog");
+            Staff staff = new Staff("Sir Asher", 3, "ITSO");
     
             
             System.out.println("Student Information:");
